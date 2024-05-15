@@ -1,0 +1,190 @@
+
+h5{
+    text-decoration: none;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav{
+    border-bottom: 1px solid black;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.cards h5{
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-left: 70px;
+    color: white;
+    font-weight: 600;
+}
+.expa{
+    color: black;
+}
+.expa:hover{
+    color: black;
+}
+.cards h5:hover{
+    font-family: 'Roboto Condensed', sans-serif;
+    color:red;
+    font-weight: 700;
+}
+.flutter li{
+    list-style: none;
+}
+nav ul{
+    display: flex;
+    padding-top: 10px;
+    padding-right: 200px;
+    text-decoration: none;
+}
+nav li{
+    list-style: none;
+}
+nav .logo{
+    padding-right: 300px;
+}
+
+.navele{
+    font-family: 'Roboto Condensed', sans-serif;
+    padding:18px;
+    text-decoration: none;
+    color:white;
+    font-size: 17px;
+    font-weight: 500;
+}
+.navele:hover{
+    color:red;
+}
+nav .logo1{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    font-style:italic;
+    padding-top: 8px;
+    color: white;
+}
+header{
+    height: 35px;
+    background-color: red;
+}
+.co{
+    padding-top: 7px;
+    text-align: center;
+}
+.exp{
+    background-color: black;
+}
+.exp h2{
+    color: white;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+}
+.cont h2{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 800;
+    margin: 50 auto;
+    color: white;
+}
+
+.c1{
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+    padding: 40px;
+    color: white;
+}
+.c1 .expa{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+}
+.c1 img:hover{
+    width: 300;
+    transform: translate(-25px,-20px);
+    transition: 0.2s ease-in;
+}
+.back{
+    background-image: url('./Images/bg.jpg');
+    color: white;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 70 ;
+    padding: 5%;
+}
+.cont{
+    background-color: black;
+    width: 100%;
+
+}
+.cont1 img:hover{
+    width: 450px;
+    transform: translate(-25px,-20px);
+    transition: 0.5s ease-in;
+    height: 450px;
+}
+.cont2 img:hover{
+    width: 550px;
+    transform: translate(-25px,-20px);
+    transition: 0.5s ease-in;
+}
+.cont1{
+    overflow: hidden;
+    width: 400px;
+    height: 400px;
+    margin: 20 auto;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+.cont2{
+    overflow: hidden;
+    width: 500px;
+    height: 280px;
+    margin: 20 auto;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+p{
+    font-size: 22px;
+}
+.headd{
+    font-size: 56px;
+}
+
+.ab{
+    padding-right: 1100px;
+    color: white;
+    font-family:'Roboto Condensed', sans-serif;
+    font-weight:600;
+    border-bottom: 1px solid white;
+    border-width: 100%;
+}
+
+.flutter ul{
+    display: flex;
+    padding-top:10px;
+    text-decoration: none;
+    background-color: black;
+}
+.flutter{
+    border-bottom: 1px solid black;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+.fut{
+    padding-left: 40px;
+    text-decoration: none;
+}
+.background{
+    background-color: black;
+    
+}
+.background img{
+    padding-left: 250px;
+}
